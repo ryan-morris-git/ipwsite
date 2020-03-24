@@ -1,0 +1,18 @@
+.fa {
+    padding: 20px;
+    font-size: 50px;
+    width: 55px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    transition: transform .2s;
+    overflow: hidden;
+  }
+  
+  .fa:hover {
+    opacity: 0.8;
+    color:black;
+    transform:scale(2);
+  }
+  
+  
