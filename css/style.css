@@ -15,4 +15,10 @@
     transform:scale(2);
   }
   
-  
+  .nextShowTitle {
+    padding: 20px;
+  }
+
+  .nextShowBanner {
+    padding-bottom: 10px;
+  }
